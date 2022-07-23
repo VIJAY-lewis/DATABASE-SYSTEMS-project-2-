@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<Course_No>1043</Course_No>
+		<Course_Name>TECH121</Course_Name>
+		<CreditHours>1</CreditHours>
+	</row>
+	<row>
+		<Course_No>1006</Course_No>
+		<Course_Name>Psy101</Course_Name>
+		<CreditHours>2</CreditHours>
+	</row>
+	<row>
+		<Course_No>1697</Course_No>
+		<Course_Name>ELE102</Course_Name>
+		<CreditHours>2</CreditHours>
+	</row>
+</root>

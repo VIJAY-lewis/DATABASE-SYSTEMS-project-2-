@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<CAMPUS_NAME>New York Campus</CAMPUS_NAME>
+		<Address>P.O. Box 215</Address>
+		<ZIP>1469 Eu Rd</ZIP>
+		<PHONE_NO>1-824-430-8362</PHONE_NO>
+	</row>
+	<row>
+		<CAMPUS_NAME>Seattle Campus</CAMPUS_NAME>
+		<Address>405-6298 In Street</Address>
+		<ZIP>21345</ZIP>
+		<PHONE_NO>1-460-439-2331</PHONE_NO>
+	</row>
+	<row>
+		<CAMPUS_NAME>San Francisco Campus</CAMPUS_NAME>
+		<Address>820-7808 Risus, Rd</Address>
+		<ZIP>51852</ZIP>
+		<PHONE_NO>1-639-674-3520</PHONE_NO>
+	</row>
+</root>

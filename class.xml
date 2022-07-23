@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<Class_id>12408</Class_id>
+		<Course_No>1044</Course_No>
+		<Semester>FALL</Semester>
+		<Instructor_ID>1</Instructor_ID>
+		<Start_Date>08/10/2022</Start_Date>
+		<Start_Time>08:00</Start_Time>
+		<Section>8</Section>
+		<YEAR>2022</YEAR>
+	</row>
+	<row>
+		<Class_id>12410</Class_id>
+		<Course_No>1045</Course_No>
+		<Semester>SUMMER</Semester>
+		<Instructor_ID>2</Instructor_ID>
+		<Start_Date>08/03/2023</Start_Date>
+		<Start_Time>08:00</Start_Time>
+		<Section>13</Section>
+		<YEAR>2023</YEAR>
+	</row>
+	<row>
+		<Class_id>12412</Class_id>
+		<Course_No>1046</Course_No>
+		<Semester>SPRING</Semester>
+		<Instructor_ID>3</Instructor_ID>
+		<Start_Date>04/10/2020</Start_Date>
+		<Start_Time>11:00</Start_Time>
+		<Section>20</Section>
+		<YEAR>2020</YEAR>
+	</row>
+</root>

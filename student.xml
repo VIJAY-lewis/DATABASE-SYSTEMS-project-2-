@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<Last_Name>Makalo</Last_Name>
+		<First_Name>Justin</First_Name>
+		<Address>P.O Box 620</Address>
+		<ZIP>5808 Semper St</ZIP>
+		<MAJOR>Mathematics</MAJOR>
+		<CLASS>2</CLASS>
+		<STATUS>FAILING</STATUS>
+	</row>
+	<row>
+		<Last_Name>Elijah</Last_Name>
+		<First_Name>Livngstine</First_Name>
+		<Address>P.O Box 34353</Address>
+		<ZIP>Lectus Road</ZIP>
+		<MAJOR>Business</MAJOR>
+		<CLASS>3</CLASS>
+		<STATUS>SATISFACTORY</STATUS>
+	</row>
+	<row>
+		<Last_Name>Nelson</Last_Name>
+		<First_Name>Mandela</First_Name>
+		<Address>P.O Box 4252</Address>
+		<ZIP>Mandela Road</ZIP>
+		<MAJOR>English</MAJOR>
+		<CLASS>4</CLASS>
+		<STATUS>FAILING</STATUS>
+	</row>
+</root>
